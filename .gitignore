@@ -1,0 +1,9 @@
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+.settings
+WebContent/WEB-INF/classes
+WebContent/res/gallery
